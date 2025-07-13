@@ -7,7 +7,7 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "C:\\Users\\tscr\\Downloads\\biovoices-animal-alchemy-main - Copy\\public"
+publish = "biovoices-animal-alchemy-main/public"
 publishOrigin = "ui"
 commandOrigin = "ui"
 command = "hugo"
